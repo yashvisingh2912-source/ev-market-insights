@@ -1,0 +1,101 @@
+Manufacturer,Category,Battery_Technology,Battery_Capacity_kWh,Driving_Range_km,Annual_Sales,Price_INR_Lakh,Customer_Rating,Manufacturing_Country
+Kia,Hatchback,NCA,20,524,12823,43,4.9,USA
+Hyundai,Sedan,Solid-State,38,171,5280,37,4.1,China
+MG Motor,Sedan,NCA,21,387,2868,98,4.3,South Korea
+Kia,Two-Wheeler,LFP,72,307,12539,27,3.9,South Korea
+BYD,Sedan,Solid-State,63,187,7155,14,3.6,India
+BMW,Sedan,LFP,109,379,8673,73,3.7,India
+MG Motor,Sedan,Solid-State,51,514,4995,38,4.3,USA
+MG Motor,Two-Wheeler,Solid-State,89,200,11393,56,4.5,India
+Kia,Sedan,NMC,51,587,22886,99,4.6,China
+Tata Motors,Hatchback,LFP,87,413,23498,14,4.6,South Korea
+BYD,Two-Wheeler,NCA,74,432,13903,23,3.2,USA
+Kia,Hatchback,NCA,94,176,13621,62,4.0,India
+BYD,Two-Wheeler,LFP,75,375,22803,5,3.1,China
+BYD,Sedan,NCA,36,426,11466,73,4.1,China
+BMW,Hatchback,NCA,57,435,1353,8,3.9,India
+MG Motor,Two-Wheeler,LFP,43,246,21030,20,4.8,South Korea
+Hyundai,SUV,Solid-State,88,433,20653,28,3.7,India
+BMW,Sedan,LFP,89,516,17458,84,3.2,USA
+BMW,Two-Wheeler,Solid-State,105,597,18032,6,3.3,India
+BYD,SUV,NCA,30,630,23177,96,4.5,China
+Mahindra,Two-Wheeler,NCA,35,602,23341,36,4.2,India
+MG Motor,SUV,NCA,92,466,24393,95,3.2,South Korea
+Tata Motors,Sedan,NMC,78,453,10407,88,3.2,Germany
+BMW,Hatchback,Solid-State,89,296,5277,28,4.4,India
+Hyundai,SUV,NMC,99,153,20738,16,3.1,South Korea
+Mahindra,Two-Wheeler,NMC,22,184,15838,54,4.6,South Korea
+Mahindra,Sedan,LFP,39,341,2991,39,4.4,China
+Tata Motors,SUV,NMC,78,198,15828,37,3.2,South Korea
+BMW,Two-Wheeler,LFP,55,166,15099,37,3.2,South Korea
+Hyundai,Two-Wheeler,LFP,38,321,20008,65,5.0,South Korea
+MG Motor,Two-Wheeler,NMC,109,369,22575,55,3.7,South Korea
+Tesla,SUV,Solid-State,86,307,3551,47,3.7,USA
+Hyundai,SUV,Solid-State,38,626,16479,16,4.6,USA
+Tata Motors,SUV,Solid-State,39,195,16888,71,4.9,China
+Mahindra,Hatchback,Solid-State,90,522,22106,69,5.0,India
+MG Motor,SUV,Solid-State,71,155,22199,37,4.5,South Korea
+Hyundai,SUV,NMC,52,248,21753,44,3.8,India
+Tesla,SUV,NMC,59,529,1376,78,3.2,India
+Tesla,Hatchback,NCA,58,382,23911,47,4.6,China
+BYD,SUV,Solid-State,101,186,4642,48,4.1,South Korea
+BYD,Two-Wheeler,NMC,20,429,15702,33,3.8,South Korea
+Kia,SUV,NCA,30,498,7466,17,4.8,Germany
+Tata Motors,Two-Wheeler,Solid-State,76,646,7579,16,3.2,India
+BMW,Two-Wheeler,LFP,108,451,8487,99,4.0,India
+Hyundai,Two-Wheeler,NCA,69,330,7299,50,3.0,USA
+Hyundai,Hatchback,NMC,42,244,4965,6,3.9,Germany
+BMW,Hatchback,LFP,50,248,17519,39,3.1,USA
+Kia,Hatchback,LFP,61,337,13917,91,3.2,USA
+Mahindra,SUV,LFP,26,630,18577,85,3.2,USA
+Mahindra,Two-Wheeler,NCA,35,265,21636,94,4.3,China
+Kia,Hatchback,NMC,109,340,8811,12,4.5,China
+Mahindra,Hatchback,LFP,79,402,17714,97,4.2,USA
+BYD,SUV,Solid-State,21,618,14598,30,4.9,Germany
+Hyundai,Hatchback,LFP,20,565,5677,78,3.7,India
+Kia,SUV,LFP,67,620,14762,94,3.6,Germany
+Hyundai,Sedan,NCA,31,310,8808,38,4.7,South Korea
+BMW,Hatchback,NCA,88,405,6449,11,3.4,China
+Tesla,Sedan,NMC,56,472,19722,72,4.9,India
+BYD,SUV,Solid-State,51,277,1650,62,3.0,India
+MG Motor,Two-Wheeler,NCA,28,167,24444,79,4.9,South Korea
+BYD,Hatchback,LFP,38,430,2431,33,3.1,South Korea
+Kia,SUV,NMC,67,639,9704,40,4.8,USA
+MG Motor,Two-Wheeler,LFP,99,372,18548,93,4.1,China
+Tesla,Two-Wheeler,LFP,22,203,1581,25,5.0,China
+Kia,Sedan,NCA,39,207,17396,40,3.1,Germany
+Tata Motors,SUV,NMC,43,472,13907,14,4.1,USA
+Hyundai,Two-Wheeler,Solid-State,73,509,8305,77,4.9,USA
+Tesla,Hatchback,Solid-State,52,323,5737,28,4.0,USA
+Hyundai,Hatchback,NCA,43,429,17443,68,4.3,USA
+Mahindra,Sedan,NCA,94,263,20556,53,4.4,China
+Tata Motors,Two-Wheeler,NMC,91,437,13275,40,3.9,China
+Tata Motors,SUV,Solid-State,55,580,24288,86,4.3,USA
+Tesla,Hatchback,Solid-State,57,491,16744,28,4.2,Germany
+Tata Motors,Two-Wheeler,Solid-State,103,300,13684,27,4.8,India
+MG Motor,Two-Wheeler,LFP,108,599,3843,66,3.1,India
+Tata Motors,Sedan,Solid-State,44,276,14000,41,3.6,Germany
+Hyundai,Hatchback,LFP,37,304,20954,16,4.9,USA
+Hyundai,Hatchback,NMC,101,639,10162,59,4.8,China
+Kia,SUV,LFP,85,535,17464,17,3.9,India
+Hyundai,Hatchback,NMC,73,623,15625,27,4.2,South Korea
+Kia,SUV,Solid-State,54,422,23888,93,3.6,South Korea
+Hyundai,Hatchback,Solid-State,99,253,8630,34,3.4,Germany
+MG Motor,Sedan,NMC,80,566,20031,21,3.9,USA
+BMW,Hatchback,NCA,60,542,21133,66,3.7,India
+Kia,SUV,NMC,52,448,2179,88,4.2,USA
+BYD,SUV,NCA,87,395,4006,93,3.2,India
+Mahindra,Sedan,LFP,52,325,13784,90,4.9,Germany
+Tesla,Hatchback,LFP,33,188,7753,17,5.0,Germany
+Hyundai,Hatchback,LFP,40,626,19628,63,4.4,South Korea
+Tata Motors,Sedan,Solid-State,67,319,9935,23,4.1,USA
+BMW,Hatchback,LFP,39,396,22072,53,3.6,South Korea
+Hyundai,Hatchback,NCA,27,175,11810,16,4.6,USA
+Tata Motors,SUV,LFP,26,504,13796,65,4.4,South Korea
+Mahindra,Hatchback,NMC,86,455,19025,23,3.3,China
+Mahindra,Hatchback,NMC,36,558,13745,80,4.8,China
+Mahindra,Sedan,Solid-State,52,557,11651,13,4.6,China
+Tata Motors,Sedan,NMC,67,162,10957,75,4.9,China
+Hyundai,Two-Wheeler,NCA,95,465,23501,32,4.5,India
+Mahindra,SUV,LFP,78,540,2979,82,4.2,China
+MG Motor,Hatchback,Solid-State,105,462,23368,99,3.8,Germany
